@@ -1,0 +1,38 @@
+@font-face {
+    font-family :'mysterium';
+    src : url('../Ressource/RetroGrungeWest.otf');
+}
+
+body {
+    background-color : darkslategray;
+    font-family : 'mysterium';
+    padding : 0px;
+    margin : 0px;
+}
+
+header {
+    text-align : center;
+    margin : 0px;
+    padding-top : 60px;
+    padding-bottom : 60px;
+    background-color : darkgrey;
+}
+
+h1 {
+    font-size : 45px;
+    margin : 0px;
+}
+
+#principal {
+    text-align : center;
+}
+
+#chapeau {
+    width : 750px;
+    height : 600px;
+}
+
+#legende {
+    text-align : center;
+    font-size : 30px;
+}
